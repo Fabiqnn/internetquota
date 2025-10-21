@@ -28,7 +28,7 @@
       "id": "1",
       "phone": "0895412261150",
       "name": "Fabian",
-      "activePackageId": 1
+      "activePackageId": 3
     },
     {
       "id": "2",
@@ -104,6 +104,26 @@
       "paketId": 1,
       "paketName": "2.75 GB 3 Hari",
       "price": "Rp. 12.000,00",
+      "paymentMethod": "GPAY",
+      "status": "berhasil",
+      "date": "21/10/2025"
+    },
+    {
+      "id": "ee6b",
+      "userId": 1,
+      "paketId": 2,
+      "paketName": "5 GB 7 Hari",
+      "price": "Rp. 22.000,00",
+      "paymentMethod": "DANA",
+      "status": "berhasil",
+      "date": "21/10/2025"
+    },
+    {
+      "id": "34b6",
+      "userId": 1,
+      "paketId": 3,
+      "paketName": "10 GB 30 Hari",
+      "price": "Rp. 45.000,00",
       "paymentMethod": "GPAY",
       "status": "berhasil",
       "date": "21/10/2025"

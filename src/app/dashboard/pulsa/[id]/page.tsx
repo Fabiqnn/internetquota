@@ -79,7 +79,7 @@ export default function PaketDetailPage() {
       <MobileHeader></MobileHeader>
       <div className="min-h-screen py-8">
 
-        <div className=" bg-white rounded-xl shadow p-6">
+        <div className="mx-6 bg-white rounded-xl shadow p-6">
           {paket.image && (
             <img
               src={paket?.image}
