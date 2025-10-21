@@ -1,0 +1,115 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "phone": "0895412261150",
+      "name": "Fabian",
+      "activePackageId": 1
+    },
+    {
+      "id": "2",
+      "phone": "085843057583",
+      "name": "Kibar",
+      "activePackageId": null
+    },
+    {
+      "id": "2",
+      "phone": "085704024108",
+      "name": "Dio",
+      "activePackageId": null
+    },
+    {
+      "id": "2",
+      "phone": "081275824927",
+      "name": "Soultan",
+      "activePackageId": null
+    }
+  ],
+  "pulsa": [
+    {
+      "id": "1",
+      "title": "2.75 GB 3 Hari",
+      "jenis": "Reguler",
+      "paket": "2.75",
+      "duration": "3 Hari",
+      "price": "Rp. 12.000,00",
+      "image": "/assets/paket1.jpg",
+      "description": "Paket AlwaysOn Unlimited 26GB Kuota AON 6GB, mengikuti masa aktif kartu. Kuota Regular 20GB, berlaku jam 01.00-17.00. Kuota Unlimited dapat digunakan setelah Kuota Regular habis, berlaku jam 01.00-17.00. Bisa digunakan di semua Jaringan. Ekstra Nelpon 3.000 menit ke Tri dan IM3 (100 menit/hari). Berhenti Perpanjangan: STOP UNLIM6R ke 234 Keterangan: Pembelian lebih dari satu kali hanya kuota AON yang terakumulasi"
+    },
+    {
+      "id": "2",
+      "title": "5 GB 7 Hari",
+      "jenis": "Reguler",
+      "paket": "5",
+      "duration": "7 Hari",
+      "price": "Rp. 22.000,00",
+      "image": "/assets/paket1.jpg"
+    },
+    {
+      "id": "3",
+      "title": "10 GB 30 Hari",
+      "jenis": "Reguler",
+      "paket": "10",
+      "duration": "30 Hari",
+      "price": "Rp. 45.000,00",
+      "image": "/assets/paket1.jpg"
+    },
+    {
+      "id": "4",
+      "title": "2.75 GB 3 Hari",
+      "jenis": "Reguler",
+      "paket": "2.75",
+      "duration": "3 Hari",
+      "price": "Rp. 12.000,00",
+      "image": "/assets/paket1.jpg"
+    },
+    {
+      "id": "5",
+      "title": "2.75 GB 3 Hari",
+      "jenis": "Reguler",
+      "paket": "2.75",
+      "duration": "3 Hari",
+      "price": "Rp. 12.000,00",
+      "image": "/assets/paket1.jpg"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "9593",
+      "userId": 1,
+      "paketId": 1,
+      "paketName": "2.75 GB 3 Hari",
+      "price": "Rp. 12.000,00",
+      "paymentMethod": "GPAY",
+      "status": "berhasil",
+      "date": "21/10/2025"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
